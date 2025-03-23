@@ -1,0 +1,6 @@
+@DiagenVet.WebAPI_HostAddress = http://localhost:5259
+
+GET {{DiagenVet.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

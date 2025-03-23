@@ -1,0 +1,928 @@
+[
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.AboutController",
+    "Method": "GetAll",
+    "RelativePath": "api/About",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.AboutController",
+    "Method": "Add",
+    "RelativePath": "api/About",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "about",
+        "Type": "DiagenVet.Entity.Concrete.About",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.AboutController",
+    "Method": "Update",
+    "RelativePath": "api/About",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "about",
+        "Type": "DiagenVet.Entity.Concrete.About",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.AboutController",
+    "Method": "Delete",
+    "RelativePath": "api/About",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "about",
+        "Type": "DiagenVet.Entity.Concrete.About",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.AboutController",
+    "Method": "GetById",
+    "RelativePath": "api/About/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.AboutController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/About/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.AboutController",
+    "Method": "HardDelete",
+    "RelativePath": "api/About/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "about",
+        "Type": "DiagenVet.Entity.Concrete.About",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "GetAll",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "Add",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blog",
+        "Type": "DiagenVet.Entity.Concrete.Blog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "Update",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blog",
+        "Type": "DiagenVet.Entity.Concrete.Blog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "Delete",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blog",
+        "Type": "DiagenVet.Entity.Concrete.Blog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "GetById",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Blog/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "HardDelete",
+    "RelativePath": "api/Blog/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blog",
+        "Type": "DiagenVet.Entity.Concrete.Blog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "IncrementViewCount",
+    "RelativePath": "api/Blog/increment-view/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "GetAllPublished",
+    "RelativePath": "api/Blog/published",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "GetBySlug",
+    "RelativePath": "api/Blog/slug/{slug}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "slug",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.BlogController",
+    "Method": "GetAllByTag",
+    "RelativePath": "api/Blog/tag/{tag}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.CertificateController",
+    "Method": "GetAll",
+    "RelativePath": "api/Certificate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.CertificateController",
+    "Method": "Add",
+    "RelativePath": "api/Certificate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "certificate",
+        "Type": "DiagenVet.Entity.Concrete.Certificate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.CertificateController",
+    "Method": "Update",
+    "RelativePath": "api/Certificate",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "certificate",
+        "Type": "DiagenVet.Entity.Concrete.Certificate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.CertificateController",
+    "Method": "Delete",
+    "RelativePath": "api/Certificate",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "certificate",
+        "Type": "DiagenVet.Entity.Concrete.Certificate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.CertificateController",
+    "Method": "GetById",
+    "RelativePath": "api/Certificate/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.CertificateController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Certificate/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.CertificateController",
+    "Method": "HardDelete",
+    "RelativePath": "api/Certificate/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "certificate",
+        "Type": "DiagenVet.Entity.Concrete.Certificate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/Laboratory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "Add",
+    "RelativePath": "api/Laboratory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laboratory",
+        "Type": "DiagenVet.Entity.Concrete.Laboratory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "Update",
+    "RelativePath": "api/Laboratory",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laboratory",
+        "Type": "DiagenVet.Entity.Concrete.Laboratory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "Delete",
+    "RelativePath": "api/Laboratory",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laboratory",
+        "Type": "DiagenVet.Entity.Concrete.Laboratory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "GetById",
+    "RelativePath": "api/Laboratory/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Laboratory/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "HardDelete",
+    "RelativePath": "api/Laboratory/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laboratory",
+        "Type": "DiagenVet.Entity.Concrete.Laboratory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.LaboratoryController",
+    "Method": "GetAllWithTests",
+    "RelativePath": "api/Laboratory/with-tests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "GetAll",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "Add",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "DiagenVet.Entity.Concrete.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "Update",
+    "RelativePath": "api/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "DiagenVet.Entity.Concrete.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "Delete",
+    "RelativePath": "api/Product",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "DiagenVet.Entity.Concrete.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "GetById",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Product/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "GetAllByCategory",
+    "RelativePath": "api/Product/category/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductController",
+    "Method": "HardDelete",
+    "RelativePath": "api/Product/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "DiagenVet.Entity.Concrete.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/ProductCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "Add",
+    "RelativePath": "api/ProductCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productCategory",
+        "Type": "DiagenVet.Entity.Concrete.ProductCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "Update",
+    "RelativePath": "api/ProductCategory",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productCategory",
+        "Type": "DiagenVet.Entity.Concrete.ProductCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "Delete",
+    "RelativePath": "api/ProductCategory",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productCategory",
+        "Type": "DiagenVet.Entity.Concrete.ProductCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "GetById",
+    "RelativePath": "api/ProductCategory/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/ProductCategory/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "HardDelete",
+    "RelativePath": "api/ProductCategory/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productCategory",
+        "Type": "DiagenVet.Entity.Concrete.ProductCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "GetMainCategories",
+    "RelativePath": "api/ProductCategory/main",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.ProductCategoryController",
+    "Method": "GetSubCategories",
+    "RelativePath": "api/ProductCategory/sub/{parentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.SampleGuideController",
+    "Method": "GetAll",
+    "RelativePath": "api/SampleGuide",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.SampleGuideController",
+    "Method": "Add",
+    "RelativePath": "api/SampleGuide",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sampleGuide",
+        "Type": "DiagenVet.Entity.Concrete.SampleGuide",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.SampleGuideController",
+    "Method": "Update",
+    "RelativePath": "api/SampleGuide",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sampleGuide",
+        "Type": "DiagenVet.Entity.Concrete.SampleGuide",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.SampleGuideController",
+    "Method": "Delete",
+    "RelativePath": "api/SampleGuide",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sampleGuide",
+        "Type": "DiagenVet.Entity.Concrete.SampleGuide",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.SampleGuideController",
+    "Method": "GetById",
+    "RelativePath": "api/SampleGuide/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.SampleGuideController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/SampleGuide/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.SampleGuideController",
+    "Method": "HardDelete",
+    "RelativePath": "api/SampleGuide/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sampleGuide",
+        "Type": "DiagenVet.Entity.Concrete.SampleGuide",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "GetAll",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "Add",
+    "RelativePath": "api/Test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "test",
+        "Type": "DiagenVet.Entity.Concrete.Test",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "Update",
+    "RelativePath": "api/Test",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "test",
+        "Type": "DiagenVet.Entity.Concrete.Test",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "Delete",
+    "RelativePath": "api/Test",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "test",
+        "Type": "DiagenVet.Entity.Concrete.Test",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "GetById",
+    "RelativePath": "api/Test/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Test/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "HardDelete",
+    "RelativePath": "api/Test/hard",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "test",
+        "Type": "DiagenVet.Entity.Concrete.Test",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DiagenVet.WebAPI.Controllers.TestController",
+    "Method": "GetAllByLaboratory",
+    "RelativePath": "api/Test/laboratory/{laboratoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laboratoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

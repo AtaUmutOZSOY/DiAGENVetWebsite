@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KF2jgQkYLyy4HkgD8Xu+Lv/Q3tuLd+LCHewzwsIakfk=",
+  "Source": "DiagenVet.WebAPI",
+  "BasePath": "_content/DiagenVet.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

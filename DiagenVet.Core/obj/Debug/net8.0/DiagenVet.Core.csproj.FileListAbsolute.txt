@@ -10,3 +10,16 @@ C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Core\obj\Debug\net8.0\Di
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Core\obj\Debug\net8.0\refint\DiagenVet.Core.dll
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.pdb
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Core\obj\Debug\net8.0\ref\DiagenVet.Core.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\bin\Debug\net8.0\DiagenVet.Core.deps.json
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\bin\Debug\net8.0\DiagenVet.Core.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\bin\Debug\net8.0\DiagenVet.Core.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.csproj.AssemblyReference.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.AssemblyInfoInputs.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.AssemblyInfo.cs
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.sourcelink.json
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\refint\DiagenVet.Core.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\DiagenVet.Core.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Core\obj\Debug\net8.0\ref\DiagenVet.Core.dll

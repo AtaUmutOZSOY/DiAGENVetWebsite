@@ -1,6 +1,6 @@
 using DiagenVet.Core.DataAccess.EntityFramework;
 using DiagenVet.DataAccess.Abstract;
-using DiagenVet.DataAccess.Concrete.EntityFramework.Contexts;
+using DiagenVet.DataAccess.Contexts;
 using DiagenVet.Entity.Concrete;
 using Microsoft.EntityFrameworkCore;
 

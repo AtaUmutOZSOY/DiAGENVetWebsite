@@ -3,6 +3,8 @@ using DiagenVet.Business.Abstract;
 using DiagenVet.Business.Concrete;
 using DiagenVet.DataAccess.Abstract;
 using DiagenVet.DataAccess.Concrete.EntityFramework;
+using DiagenVet.Business.Services;
+using DiagenVet.Core.Services;
 
 namespace DiagenVet.Business.DependencyResolvers.Autofac;
 
@@ -41,5 +43,8 @@ public class AutofacBusinessModule : Module
         // Blog
         builder.RegisterType<BlogManager>().As<IBlogService>();
         builder.RegisterType<EfBlogDal>().As<IBlogDal>();
+
+        builder.RegisterType<JwtService>().As<IJwtService>().InstancePerLifetimeScope();
+        builder.RegisterType<AuthService>().As<IAuthService>().InstancePerLifetimeScope();
     }
 } 

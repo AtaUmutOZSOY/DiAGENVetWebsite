@@ -13,3 +13,19 @@ C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Entity\obj\Debug\net8.0\
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Entity\obj\Debug\net8.0\refint\DiagenVet.Entity.dll
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.pdb
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Entity\obj\Debug\net8.0\ref\DiagenVet.Entity.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\bin\Debug\net8.0\DiagenVet.Entity.deps.json
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\bin\Debug\net8.0\DiagenVet.Entity.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\bin\Debug\net8.0\DiagenVet.Entity.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\bin\Debug\net8.0\DiagenVet.Core.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\bin\Debug\net8.0\DiagenVet.Core.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.csproj.AssemblyReference.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.AssemblyInfoInputs.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.AssemblyInfo.cs
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.sourcelink.json
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVe.65E06656.Up2Date
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\refint\DiagenVet.Entity.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\DiagenVet.Entity.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Entity\obj\Debug\net8.0\ref\DiagenVet.Entity.dll

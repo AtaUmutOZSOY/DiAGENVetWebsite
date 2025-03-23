@@ -17,3 +17,23 @@ C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Business\obj\Debug\net8.
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Business\obj\Debug\net8.0\refint\DiagenVet.Business.dll
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.pdb
 C:\Users\ataum\source\repos\DiagenVetSolution\DiagenVet.Business\obj\Debug\net8.0\ref\DiagenVet.Business.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.Business.deps.json
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.Business.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.Business.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.Core.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.DataAccess.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.Entity.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.Core.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.DataAccess.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\bin\Debug\net8.0\DiagenVet.Entity.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.csproj.AssemblyReference.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.AssemblyInfoInputs.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.AssemblyInfo.cs
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.sourcelink.json
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVe.115693A6.Up2Date
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\refint\DiagenVet.Business.dll
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\DiagenVet.Business.pdb
+C:\Users\Ata Umut ÖZSOY\source\repos\DiAGENVetWebsite\DiagenVet.Business\obj\Debug\net8.0\ref\DiagenVet.Business.dll

@@ -3561,23 +3561,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ataum\\.nuget\\packages\\": {},
+    "C:\\Users\\Ata Umut ÖZSOY\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Business\\DiagenVet.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.Business\\DiagenVet.Business.csproj",
       "projectName": "DiagenVet.Business",
-      "projectPath": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Business\\DiagenVet.Business.csproj",
-      "packagesPath": "C:\\Users\\ataum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Business\\obj\\",
+      "projectPath": "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.Business\\DiagenVet.Business.csproj",
+      "packagesPath": "C:\\Users\\Ata Umut ÖZSOY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ataum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ata Umut ÖZSOY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3592,14 +3592,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Core\\DiagenVet.Core.csproj": {
-              "projectPath": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Core\\DiagenVet.Core.csproj"
+            "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.Core\\DiagenVet.Core.csproj": {
+              "projectPath": "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.Core\\DiagenVet.Core.csproj"
             },
-            "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj"
+            "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj"
             },
-            "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Entity\\DiagenVet.Entity.csproj": {
-              "projectPath": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Entity\\DiagenVet.Entity.csproj"
+            "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.Entity\\DiagenVet.Entity.csproj": {
+              "projectPath": "C:\\Users\\Ata Umut ÖZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.Entity\\DiagenVet.Entity.csproj"
             }
           }
         }
@@ -3612,7 +3612,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.200"
     },
@@ -3657,20 +3657,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "'System.Security.Cryptography.Xml' 4.5.0 paketinde önem derecesi orta olan bilinen bir https://github.com/advisories/GHSA-vh55-786g-wjwj güvenlik açığı var",
-      "libraryId": "System.Security.Cryptography.Xml",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

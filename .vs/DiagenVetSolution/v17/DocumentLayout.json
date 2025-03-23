@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\Ata Umut \u00D6ZSOY\\source\\repos\\DiAGENVetWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37458F9E-3759-48B0-8844-3561B1F94100}|DiagenVet.WebAPI\\DiagenVet.WebAPI.csproj|c:\\users\\ataum\\source\\repos\\diagenvetsolution\\diagenvet.webapi\\diagenvet.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{37458F9E-3759-48B0-8844-3561B1F94100}|DiagenVet.WebAPI\\DiagenVet.WebAPI.csproj|solutionrelative:diagenvet.webapi\\diagenvet.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37458F9E-3759-48B0-8844-3561B1F94100}|DiagenVet.WebAPI\\DiagenVet.WebAPI.csproj|c:\\users\\ataum\\source\\repos\\diagenvetsolution\\diagenvet.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37458F9E-3759-48B0-8844-3561B1F94100}|DiagenVet.WebAPI\\DiagenVet.WebAPI.csproj|c:\\users\\ata umut \u00F6zsoy\\source\\repos\\diagenvetwebsite\\diagenvet.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37458F9E-3759-48B0-8844-3561B1F94100}|DiagenVet.WebAPI\\DiagenVet.WebAPI.csproj|solutionrelative:diagenvet.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37458F9E-3759-48B0-8844-3561B1F94100}|DiagenVet.WebAPI\\DiagenVet.WebAPI.csproj|c:\\users\\ataum\\source\\repos\\diagenvetsolution\\diagenvet.webapi\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37458F9E-3759-48B0-8844-3561B1F94100}|DiagenVet.WebAPI\\DiagenVet.WebAPI.csproj|solutionrelative:diagenvet.webapi\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66D7ADB1-B58E-4C73-A544-7358C62C1CF7}|DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj|c:\\users\\ata umut \u00F6zsoy\\source\\repos\\diagenvetwebsite\\diagenvet.dataaccess\\contexts\\diagenvetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D7ADB1-B58E-4C73-A544-7358C62C1CF7}|DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj|solutionrelative:diagenvet.dataaccess\\contexts\\diagenvetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{968C3DEF-E6BA-4C61-9F82-9CDCF4580E7F}|DiagenVet.Entity\\DiagenVet.Entity.csproj|c:\\users\\ataum\\source\\repos\\diagenvetsolution\\diagenvet.entity\\concrete\\sampleguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968C3DEF-E6BA-4C61-9F82-9CDCF4580E7F}|DiagenVet.Entity\\DiagenVet.Entity.csproj|solutionrelative:diagenvet.entity\\concrete\\sampleguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66D7ADB1-B58E-4C73-A544-7358C62C1CF7}|DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj|c:\\users\\ata umut \u00F6zsoy\\source\\repos\\diagenvetwebsite\\diagenvet.dataaccess\\concrete\\entityframework\\eflaboratorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D7ADB1-B58E-4C73-A544-7358C62C1CF7}|DiagenVet.DataAccess\\DiagenVet.DataAccess.csproj|solutionrelative:diagenvet.dataaccess\\concrete\\entityframework\\eflaboratorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DiagenVet.WebAPI.http",
-              "DocumentMoniker": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.WebAPI\\DiagenVet.WebAPI.http",
-              "RelativeDocumentMoniker": "DiagenVet.WebAPI\\DiagenVet.WebAPI.http",
-              "ToolTip": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.WebAPI\\DiagenVet.WebAPI.http",
-              "RelativeToolTip": "DiagenVet.WebAPI\\DiagenVet.WebAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-23T11:58:57.002Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ata Umut \u00D6ZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DiagenVet.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ata Umut \u00D6ZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.WebAPI\\Program.cs",
+              "RelativeToolTip": "DiagenVet.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:29:01.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "DiagenVet.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.WebAPI\\Program.cs",
-              "RelativeToolTip": "DiagenVet.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Title": "DiagenVetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ata Umut \u00D6ZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.DataAccess\\Contexts\\DiagenVetContext.cs",
+              "RelativeDocumentMoniker": "DiagenVet.DataAccess\\Contexts\\DiagenVetContext.cs",
+              "ToolTip": "C:\\Users\\Ata Umut \u00D6ZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.DataAccess\\Contexts\\DiagenVetContext.cs",
+              "RelativeToolTip": "DiagenVet.DataAccess\\Contexts\\DiagenVetContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAD4vzYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:58:47.36Z",
+              "WhenOpened": "2025-03-23T19:12:31.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.WebAPI\\Controllers\\ProductCategoryController.cs",
-              "RelativeDocumentMoniker": "DiagenVet.WebAPI\\Controllers\\ProductCategoryController.cs",
-              "ToolTip": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.WebAPI\\Controllers\\ProductCategoryController.cs",
-              "RelativeToolTip": "DiagenVet.WebAPI\\Controllers\\ProductCategoryController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Title": "EfLaboratoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\Ata Umut \u00D6ZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.DataAccess\\Concrete\\EntityFramework\\EfLaboratoryDal.cs",
+              "RelativeDocumentMoniker": "DiagenVet.DataAccess\\Concrete\\EntityFramework\\EfLaboratoryDal.cs",
+              "ToolTip": "C:\\Users\\Ata Umut \u00D6ZSOY\\source\\repos\\DiAGENVetWebsite\\DiagenVet.DataAccess\\Concrete\\EntityFramework\\EfLaboratoryDal.cs",
+              "RelativeToolTip": "DiagenVet.DataAccess\\Concrete\\EntityFramework\\EfLaboratoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:50:42.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SampleGuide.cs",
-              "DocumentMoniker": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Entity\\Concrete\\SampleGuide.cs",
-              "RelativeDocumentMoniker": "DiagenVet.Entity\\Concrete\\SampleGuide.cs",
-              "ToolTip": "C:\\Users\\ataum\\source\\repos\\DiagenVetSolution\\DiagenVet.Entity\\Concrete\\SampleGuide.cs",
-              "RelativeToolTip": "DiagenVet.Entity\\Concrete\\SampleGuide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:01:40.801Z",
+              "WhenOpened": "2025-03-23T19:12:05.802Z",
               "EditorCaption": ""
             }
           ]
